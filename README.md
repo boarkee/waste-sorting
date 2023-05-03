@@ -49,7 +49,7 @@ Epoch 10/10
 
 Nessa seção deve colocar o link para acessar o dataset no Roboflow
 
-Exemplo de link: [Nome do link](google.com)
+[Roboflow Dataset](https://universe.roboflow.com/cesar-nxztq/waste-sorting-e6aor)
 
 ## HuggingFace
 
