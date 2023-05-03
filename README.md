@@ -44,7 +44,9 @@ Epoch 10/10
 Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
 
 Exemplo de adição de imagem:
-![Descrição](https://i.imgur.com/ZujD6vc.png)
+![Test accuracy](https://i.imgur.com/ZujD6vc.png)
+![Test loss](https://imgur.com/3lNoBiS)
+
 
 ## Roboflow
 
