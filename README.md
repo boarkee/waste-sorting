@@ -45,7 +45,7 @@ Nessa seção você deve colocar qualquer evidência do treinamento, como por ex
 
 Exemplo de adição de imagem:
 ![Test accuracy](https://i.imgur.com/ZujD6vc.png)
-![Test loss](https://imgur.com/3lNoBiS)
+![Test loss](https://i.imgur.com/3lNoBiS.png)
 
 
 ## Roboflow
