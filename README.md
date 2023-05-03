@@ -4,7 +4,7 @@
 
 |**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
-|Classificação de Imagens<br><br>|Mobile Net|
+|Classificação de Imagens<br><br> MobileNet|Tensorflow|
 
 ## Performance
 
