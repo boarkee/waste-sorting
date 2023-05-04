@@ -55,4 +55,5 @@ Nessa seção deve colocar o link para acessar o dataset no Roboflow
 ## HuggingFace
 
 Nessa seção você deve publicar o link para o HuggingFace
+
 [HuggingFace](https://huggingface.co/boarkee/waste-sorting)
