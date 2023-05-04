@@ -13,7 +13,7 @@ O modelo treinado possui performance de **92%**.
 ### Output do bloco de treinamento
 
 <details>
-  <summary>Clique para expandir!</summary>
+  <summary>Clique para expandir</summary>
   
   ```
 Epoch 1/10
