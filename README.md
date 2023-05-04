@@ -44,6 +44,7 @@ Epoch 10/10
 ![Test accuracy](https://i.imgur.com/ZujD6vc.png)
 ![Test loss](https://i.imgur.com/3lNoBiS.png)
 
+[Relatório no Weight & Biases)(https://api.wandb.ai/links/boarkee/onfq15av)
 
 ## Roboflow
 
