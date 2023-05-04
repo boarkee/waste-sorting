@@ -48,12 +48,10 @@ Epoch 10/10
 
 ## Roboflow
 
-Nessa seção deve colocar o link para acessar o dataset no Roboflow
 
 [Roboflow Dataset](https://universe.roboflow.com/cesar-nxztq/waste-sorting-e6aor)
 
 ## HuggingFace
 
-Nessa seção você deve publicar o link para o HuggingFace
 
 [HuggingFace](https://huggingface.co/boarkee/waste-sorting)
